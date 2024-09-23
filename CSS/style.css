@@ -1,0 +1,49 @@
+#hero{
+    background: url(../images/illustration/action_bg.jpg) no-repeat;
+    background-size: 100% 100%;
+}
+#visa{
+    background-color: rgb(28,34,62);
+}
+.yellow{
+    border-color: rgb(255,193,13);
+}
+.fs{
+    font-size: 70px;
+}
+#buss{
+    background: url(../images/background/bg_abt2.jpg)no-repeat;
+    background-size: 100% 100%;
+}
+#atm{
+    background-color: rgb(247,248,248);
+}
+.text1{
+    
+    color: rgb(69, 214, 233);
+}
+.text2{
+    
+    background-color: rgb(73,195,216);
+}
+.text3{
+    background-color: rgb(25,79,130);
+}
+
+#mobile{
+    background: url(../images/illustration/bg_app.jpg)no-repeat;
+    background-size: 100% 100%;
+    padding: 100px;
+}
+#footer{
+    background-color: rgb(33,37,84);
+}
+.fs{
+    font-size: 50px;
+}
+.form{
+    background-color: rgb(28,34,62);
+}
+.f1{
+   background-color: rgb(25,31,58);
+}
